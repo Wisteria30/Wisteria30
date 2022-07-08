@@ -1,2 +1,5 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Wisteria30&count_private=true&theme=cobalt)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisteria30&layout=compact&theme=cobalt)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wisteria30&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wisteria30&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wisteria30&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wisteria30&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wisteria30&theme=monokai&utcOffset=8)
